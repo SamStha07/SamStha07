@@ -1,16 +1,17 @@
-### Hi there 👋
+# Sam Shrestha
 
-<!--
-**SamStha07/SamStha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sam from Kathmandu, and I do frontend development and a backend enthusiast too. I really enjoy learning new technologies and I am currently learning Typescript, GraphQL and Node. I try to keep learning, motivating and pushing myself to learn new technologies everyday.
 
-Here are some ideas to get you started:
+- 👷 I’m currently working on my own personal project. 
+- 🌞 Also, I’m currently learning new technologies like GraphQL, Typescript and Node.
+- 💪 Pushing myself to be a better programmer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- JS
+- Redux
+- Reactjs
+- Typescript
+- React-query
+- HTML, css, sass
+- Styled components
+- Material-UI, Ant-design
