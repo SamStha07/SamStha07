@@ -9,10 +9,9 @@ I am Sam from Kathmandu and I am a frontend developer as well as a backend enthu
 - JS / Typescript
 - Reactjs
 - Nextjs
-- Nodejs
-- MySQL
-- Redux
+- Nodejs / Nestjs
 - GraphQL
-- React-query
-- HTML, CSS, SASS, Tailwind CSS
-- Styled-components
+- Redux /React-query
+- Postgresql / Supabase / Convex
+- Prisma
+- HTML, CSS, SASS, Styled-components, Tailwind CSS 
