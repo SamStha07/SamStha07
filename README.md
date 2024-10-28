@@ -13,5 +13,5 @@ I am Sam from Kathmandu and I am a frontend developer as well as a backend enthu
 - GraphQL
 - Redux /React-query
 - Postgresql / Supabase / Convex
-- Prisma
+- Prisma ORM
 - HTML, CSS, SASS, Styled-components, Tailwind CSS 
