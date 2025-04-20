@@ -1,6 +1,6 @@
 # Sam Shrestha
 
-I am Sam from Kathmandu and I am a frontend developer as well as a backend enthusiast. I love to learn new technologies. I try to keep learning, motivating myself and pushing myself to learn new technologies on a daily basis.
+I am Sam from Kathmandu and I am a fullstack developer. I love to learn new technologies. I try to keep learning, motivating myself and pushing myself to learn new technologies on a daily basis.
 
 - 👷 Currently, I am working on my own personal project. 
 - 💪 I am pushing myself to become a better programmer.
@@ -10,8 +10,9 @@ I am Sam from Kathmandu and I am a frontend developer as well as a backend enthu
 - Reactjs
 - Nextjs
 - Nodejs / Nestjs
-- GraphQL
+- tRPC
 - Redux /React-query
 - Postgresql / Supabase / Convex
-- Prisma ORM
-- HTML, CSS, SASS, Styled-components, Tailwind CSS 
+- Prisma ORM, Drizzle ORM
+- HTML, CSS, SASS, Styled-components, Tailwind CSS
+- AWS(EC2, S3), Digital Ocean
