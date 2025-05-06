@@ -1,9 +1,9 @@
 # Sam Shrestha
 
-I am Sam from Kathmandu and I am a fullstack developer. I love to learn new technologies. I try to keep learning, motivating myself and pushing myself to learn new technologies on a daily basis.
+I’m Shyam, a full-stack developer based in Kathmandu with a strong passion for learning and staying up-to-date with new technologies. I consistently strive to improve my skills and stay motivated by challenging myself to grow as a developer every day.
 
-- 👷 Currently, I am working on my own personal project. 
-- 💪 I am pushing myself to become a better programmer.
+👷 Currently, I’m working on a personal project that allows me to explore new tools and frameworks.
+💪 I’m committed to continuous improvement and always aim to become a better and more efficient programmer through hands-on experience and self-driven learning.
 
 # Skills
 - JS / Typescript
