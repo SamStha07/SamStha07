@@ -1,4 +1,4 @@
-# Sam Shrestha
+# Shyam K. Shrestha
 
 Hi there! 👋 I’m Shyam K. Shrestha, a passionate Frontend & Fullstack Developer with experience in building web applications, data aggregation tools, and automation pipelines. I enjoy creating efficient, scalable, and user-friendly solutions.
 
