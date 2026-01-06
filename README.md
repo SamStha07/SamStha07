@@ -1,19 +1,19 @@
 # Sam Shrestha
 
-I’m Shyam, a full-stack developer based in Kathmandu with a strong passion for learning and staying up-to-date with new technologies. I consistently strive to improve my skills and stay motivated by challenging myself to grow as a developer every day.
+Hi there! 👋 I’m Shyam K. Shrestha, a passionate Frontend & Fullstack Developer with experience in building web applications, data aggregation tools, and automation pipelines. I enjoy creating efficient, scalable, and user-friendly solutions.
 
-👷 Currently, I’m working on a personal project that allows me to explore new tools and frameworks.
+👷 Currently: Exploring new tools and frameworks through personal projects to expand my skillset.
 
-💪 I’m committed to continuous improvement and always aim to become a better and more efficient programmer through hands-on experience and self-driven learning.
+💪 My Approach: Continuous improvement through hands-on experience, self-driven learning, and building projects that solve real-world problems.
 
 # Skills
-- JS / Typescript
-- Reactjs
-- Nextjs
-- Nodejs / Nestjs
-- tRPC
-- Redux /React-query
-- Postgresql / Supabase / Convex
-- Prisma ORM, Drizzle ORM
-- HTML, CSS, SASS, Styled-components, Tailwind CSS
-- AWS(EC2, S3), Digital Ocean
+Languages & Frameworks: JavaScript, TypeScript, React.js, Next.js, Node.js, oRPC, tRPC
+State Management & APIs: Redux, React Query, Zustand
+Databases & ORMs: PostgreSQL, Supabase, Convex, Prisma ORM, Drizzle ORM, Sanity CMS
+Styling & UI: HTML, CSS, SASS, Styled-Components, Tailwind CSS
+Cloud & DevOps: AWS (EC2, S3), Digital Ocean, Vercel, Docker, CI/CD (Github Actions)
+
+# Highlights
+Built web scraping & data aggregation systems using ARQ + Redis + FireCrawl API
+Developed multi-language nonprofit platforms with payment integrations and automated transactional emails
+Hands-on experience in cron jobs, rate-limiting pipelines, and scalable asynchronous workflows
