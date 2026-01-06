@@ -15,5 +15,5 @@ Hi there! 👋 I’m Shyam K. Shrestha, a passionate Frontend & Fullstack Develo
 
 # Highlights
 - Built web scraping & data aggregation systems using ARQ + Redis + FireCrawl API
-- Developed multi-language nonprofit platforms with payment integrations and automated transactional emails
+- Developed multi-language platforms with payment integrations
 - Hands-on experience in cron jobs, rate-limiting pipelines, and scalable asynchronous workflows
