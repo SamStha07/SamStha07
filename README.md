@@ -7,13 +7,13 @@ Hi there! 👋 I’m Shyam K. Shrestha, a passionate Frontend & Fullstack Develo
 💪 My Approach: Continuous improvement through hands-on experience, self-driven learning, and building projects that solve real-world problems.
 
 # Skills
-Languages & Frameworks: JavaScript, TypeScript, React.js, Next.js, Node.js, oRPC, tRPC
-State Management & APIs: Redux, React Query, Zustand
-Databases & ORMs: PostgreSQL, Supabase, Convex, Prisma ORM, Drizzle ORM, Sanity CMS
-Styling & UI: HTML, CSS, SASS, Styled-Components, Tailwind CSS
-Cloud & DevOps: AWS (EC2, S3), Digital Ocean, Vercel, Docker, CI/CD (Github Actions)
+- Languages & Frameworks: JavaScript, TypeScript, React.js, Next.js, Node.js, oRPC, tRPC
+- State Management & APIs: Redux, React Query, Zustand
+- Databases & ORMs: PostgreSQL, Supabase, Convex, Prisma ORM, Drizzle ORM, Sanity CMS
+- Styling & UI: HTML, CSS, SASS, Styled-Components, Tailwind CSS
+- Cloud & DevOps: AWS (EC2, S3), Digital Ocean, Vercel, Docker, CI/CD (Github Actions)
 
 # Highlights
-Built web scraping & data aggregation systems using ARQ + Redis + FireCrawl API
-Developed multi-language nonprofit platforms with payment integrations and automated transactional emails
-Hands-on experience in cron jobs, rate-limiting pipelines, and scalable asynchronous workflows
+- Built web scraping & data aggregation systems using ARQ + Redis + FireCrawl API
+- Developed multi-language nonprofit platforms with payment integrations and automated transactional emails
+- Hands-on experience in cron jobs, rate-limiting pipelines, and scalable asynchronous workflows
