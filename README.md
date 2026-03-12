@@ -1,19 +1,25 @@
 # Shyam K. Shrestha
 
-Hi there! 👋 I’m Shyam K. Shrestha, a passionate Frontend & Fullstack Developer with experience in building web applications, data aggregation tools, and automation pipelines. I enjoy creating efficient, scalable, and user-friendly solutions.
+👋 Hi, I’m Sam Shrestha – a Frontend-focused Fullstack Developer with 5 years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Python and FastAPI.
 
-👷 Currently: Exploring new tools and frameworks through personal projects to expand my skillset.
+🚀 Passionate about building user-friendly, scalable, and performant applications, mentoring developers, and exploring new technologies.
 
-💪 My Approach: Continuous improvement through hands-on experience, self-driven learning, and building projects that solve real-world problems.
+🤖 Currently learning Machine Learning to bring AI-powered solutions into web applications.
 
-# Skills
-- Languages & Frameworks: JavaScript, TypeScript, React.js, Next.js, Node.js, oRPC, tRPC
-- State Management & APIs: Redux, React Query, Zustand
-- Databases & ORMs: PostgreSQL, Supabase, Convex, Prisma ORM, Drizzle ORM, Sanity CMS
-- Styling & UI: HTML, CSS, SASS, Styled-Components, Tailwind CSS
-- Cloud & DevOps: AWS (EC2, S3), Digital Ocean, Vercel, Docker, CI/CD (Github Actions)
+💻 I work on e-commerce platforms, multi-vendor marketplaces, nonprofit organization, and data aggregation systems, with expertise in:
+
+- Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SASS, Tailwind CSS, Redux, Zustand, Tanstack Query
+- Backend: Node.js, Express.js, Python, FastAPI, tRPC, REST API, Prisma ORM, Drizzle ORM, Sanity CMS
+- Databases & Caching: PostgreSQL, Redis, Convex
+- Cloud & DevOps: AWS (EC2), Docker, CI/CD (GitHub Actions), Vercel, Digital Ocean
+- Testing: Jest, React Testing Library
+- Tools & Collaboration: Git, Zoho Cliq, Zoho Projects, Slack, Claude Code
+- Other: Payment integrations (Hyperpay, PayPal, eSewa, Khalti), i18n/RTL support, SEO, web scraping
 
 # Highlights
 - Built web scraping & data aggregation systems using ARQ + Redis + FireCrawl API
 - Developed multi-language platforms with payment integrations
 - Hands-on experience in cron jobs, rate-limiting pipelines, and scalable asynchronous workflows
+
+
+🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/shyam-k-shrestha/)
