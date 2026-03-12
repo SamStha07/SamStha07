@@ -1,12 +1,12 @@
 # Shyam K. Shrestha
 
-👋 Hi, I’m Sam Shrestha – a Frontend-focused Fullstack Developer with 5 years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Python and FastAPI.
+👋 Hi, I’m Shyam Shrestha – a Frontend-focused Fullstack Developer with 5 years of experience building scalable, high-performance web applications using React, Next.js, TypeScript, Node.js, Python, and FastAPI.
 
 🚀 Passionate about building user-friendly, scalable, and performant applications, mentoring developers, and exploring new technologies.
 
 🤖 Currently learning Machine Learning to bring AI-powered solutions into web applications.
 
-💻 I work on e-commerce platforms, multi-vendor marketplaces, nonprofit organization, and data aggregation systems, with expertise in:
+💻 I work on e-commerce platforms, multi-vendor marketplaces, nonprofit organizations, and data aggregation systems, with expertise in:
 
 - Frontend: React, Next.js, TypeScript, JavaScript, HTML5, CSS3, SASS, Tailwind CSS, Redux, Zustand, Tanstack Query
 - Backend: Node.js, Express.js, Python, FastAPI, tRPC, REST API, Prisma ORM, Drizzle ORM, Sanity CMS
